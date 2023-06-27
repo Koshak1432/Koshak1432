@@ -1,4 +1,4 @@
-### **<div align="center">I'm Vladlen, fullStack developer</div>**  
+### **<div align="center">I'm Vladlen, FullStack developer</div>**  
   
 - 🔭 Working on [Talky chef](https://github.com/Koshak1432/talkychef-server/tree/develop)  
   
@@ -48,7 +48,5 @@
   
 ## Github Stats  
 <br/>  
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Koshak1432&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Koshak1432&layout=compact&theme=dracula"/> 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Koshak1432&&style=flat-square)  
