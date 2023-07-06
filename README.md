@@ -1,4 +1,4 @@
-### **<div align="center">I'm Vladlen, FullStack developer</div>**  
+### **<div align="center">I'm Vladlen, Backend developer</div>**  
   
 - 🔭 Working on [Talky chef](https://github.com/Koshak1432/talkychef-server/tree/develop)  
   
