@@ -2,7 +2,7 @@
   
 - 🔭 Working on [Talky chef](https://github.com/Koshak1432/talkychef-server/tree/develop)  
   
-- 🌱 I’m currently learning Java Spring and React  
+- 🌱 I’m currently learning Java Spring
 <br/>  
 
 ## My Skill Set  
